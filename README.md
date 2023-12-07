@@ -8,10 +8,13 @@ Pre-requisitos:
 
 En ubuntu:
 
-sudo apt update
-sudo apt install make
-sudo apt install build-essential
-sudo apt install linux-headers-$(uname -r)
+-sudo apt update
 
-sudo chmod 764 script.sh
+-sudo apt install make
+
+-sudo apt install build-essential
+
+-sudo apt install linux-headers-$(uname -r)
+
+-sudo chmod 764 script.sh
 
