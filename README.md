@@ -1,12 +1,12 @@
 # crypt_dev
 
-Pre-requisitos:
+*Pre-requisitos:*
 
 -Instalar herramientas make , build-essentials, linux headers.
 
 -Dar permisos de ejecucion a script.sh
 
-En ubuntu:
+*En ubuntu:*
 
 -sudo apt update
 
