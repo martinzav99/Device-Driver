@@ -2,9 +2,9 @@
 
 Pre-requisitos:
 
-Instalar herramientas make , build-essentials, linux headers.
+-Instalar herramientas make , build-essentials, linux headers.
 
-Dar permisos de ejecucion a script.sh
+-Dar permisos de ejecucion a script.sh
 
 En ubuntu:
 
