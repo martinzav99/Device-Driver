@@ -1,8 +1,8 @@
 # crypt_dev
 
 Pre-requisitos:
--Instalar herramientas make , build-essentials, linux headers.
--Dar permisos de ejecucion a script.sh
+Instalar herramientas make , build-essentials, linux headers.
+Dar permisos de ejecucion a script.sh
 
 En ubuntu:
 
